@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1694326852861,
+      "tag": "0000_faulty_wrecking_crew",
+      "breakpoints": true
+    }
+  ]
+}
